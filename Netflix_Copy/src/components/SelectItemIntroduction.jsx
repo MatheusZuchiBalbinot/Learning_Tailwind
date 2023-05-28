@@ -1,8 +1,8 @@
 export default function SelectItemIntroduction () {
     return (
         <div id="selected_item_introduction" className='block'>
-            <div className='flex py-2 gap-3'>
-                <img src='../public/netflix_logo.png' className='w-5 h-auto flex'></img>
+            <div className='flex py-2' style={{gap: 20}}>
+                <img src='../netflix_logo.png' className='flex' style={{width: 20}}></img>
                 <h3 className='my-auto font-mono'> Series </h3>
             </div>
             <h1 className='font-serif text-4xl font-bold'> THE UMBRELLA ACADEMY </h1>

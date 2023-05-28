@@ -34,7 +34,8 @@ export default function App() {
             <img src='https://yt3.googleusercontent.com/ytc/AGIKgqO6Kh4PFnawrKRRSfhBZ2V_v_U_YYWGlx-D2zi24A=s176-c-k-c0x00ffffff-no-rj' className='w-48 mr-3'></img>
             <img src='https://yt3.googleusercontent.com/ytc/AGIKgqO6Kh4PFnawrKRRSfhBZ2V_v_U_YYWGlx-D2zi24A=s176-c-k-c0x00ffffff-no-rj' className='w-48 mr-3'></img>
             <img src='https://yt3.googleusercontent.com/ytc/AGIKgqO6Kh4PFnawrKRRSfhBZ2V_v_U_YYWGlx-D2zi24A=s176-c-k-c0x00ffffff-no-rj' className='w-48 mr-3'></img>
-            <img src='https://yt3.googleusercontent.com/ytc/AGIKgqO6Kh4PFnawrKRRSfhBZ2V_v_U_YYWGlx-D2zi24A=s176-c-k-c0x00ffffff-no-rj' className='w-48 mr-3'></img>          </div>
+            <img src='https://yt3.googleusercontent.com/ytc/AGIKgqO6Kh4PFnawrKRRSfhBZ2V_v_U_YYWGlx-D2zi24A=s176-c-k-c0x00ffffff-no-rj' className='w-48 mr-3'></img>          
+          </div>
 
         </div>
 

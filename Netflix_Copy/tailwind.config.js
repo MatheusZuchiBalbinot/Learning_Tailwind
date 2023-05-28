@@ -2,7 +2,9 @@ export default {
   content: [
     "./index.html",
     "./src/App.jsx",
-    "./src/components/SideBarElements.jsx"
+    "./src/components/SideBarElements.jsx",
+    "./src/components/SelectItemIntroduction.jsx",
+    "./src/components/ContentCards.jsx",
   ],
   theme: {
     extend: {
